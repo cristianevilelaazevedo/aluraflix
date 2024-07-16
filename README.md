@@ -20,7 +20,7 @@ Nesse projeto foram utilizados as seguintes tecnologias:
  
 ## Deploy
 
-<p>O deploy do projeto pode ser visualizado através do link: <a href="">Aluraflix</a></p>
+<p>O deploy do projeto pode ser visualizado através do link: <a href="https://aluraflix-psi-six.vercel.app/">Aluraflix</a></p>
 
 ## Contato
 
